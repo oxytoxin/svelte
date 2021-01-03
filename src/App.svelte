@@ -12,7 +12,7 @@
 <main>
   <h1>Svelte + Node.js API</h1>
   <h2>
-    Deployed with
+    Deployed with love from
     <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
       Vercel
     </a>
